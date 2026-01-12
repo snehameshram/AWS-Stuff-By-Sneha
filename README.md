@@ -8,9 +8,9 @@ Connect EC2 or make a remote-ssh through vs-code
   save it ---- and connect to host ---- check your public_ip and connect it.
 open folder home/ubuntu
 create folder via terminal  
-# mkdir openWeather_etl
+mkdir openWeather_etl
 go inside 
-# cd openWeather_etl
+cd openWeather_etl
 make file main.py
-# touch main.py
+touch main.py
   write your data extraction code--- see main.py file in repo
